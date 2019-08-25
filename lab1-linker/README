@@ -1,0 +1,14 @@
+/*
+* @autthor: Fatima Mushtaq (N#: N15760010)
+* @date : 02/13/2018
+*
+*/
+
+Name of the source file is : linker_fm.cpp.
+The file has been coded up in C++.
+Supports compiler versions gcc-4.4.7 and gcc-6.2.0. 
+
+Just to mention there is NO exception handling in the code for the case: if a filename that is not present as file is provided as input or if no argument is provided. The result will be ‘segmentation fault’. 
+
+The code has been split up decently in to methods and tried using proper naming convention for procedures and variables to make it understandable.
+
